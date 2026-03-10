@@ -1,10 +1,6 @@
 # 🌍 ArcWorld.io
 
 <p align="center">
-Explore the Arc ecosystem through games, quizzes and interactive discovery.
-</p>
-
-<p align="center">
 <strong>Explore the Arc ecosystem through games, quizzes and interactive discovery.</strong>
 </p>
 
